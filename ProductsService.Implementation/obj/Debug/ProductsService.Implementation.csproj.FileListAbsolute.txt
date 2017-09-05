@@ -1,0 +1,16 @@
+C:\Users\JackG\Downloads\refaction-master-20170904T202546Z-001\refaction-master\ProductsService.Implementation\bin\Debug\ProductsService.Implementation.dll
+C:\Users\JackG\Downloads\refaction-master-20170904T202546Z-001\refaction-master\ProductsService.Implementation\bin\Debug\ProductsService.Implementation.pdb
+C:\Users\JackG\Downloads\refaction-master-20170904T202546Z-001\refaction-master\ProductsService.Implementation\bin\Debug\ProductsService.Contract.dll
+C:\Users\JackG\Downloads\refaction-master-20170904T202546Z-001\refaction-master\ProductsService.Implementation\bin\Debug\ProductsService.Contract.pdb
+C:\Users\JackG\Downloads\refaction-master-20170904T202546Z-001\refaction-master\ProductsService.Implementation\obj\Debug\ProductsService.Implementation.csprojResolveAssemblyReference.cache
+C:\Users\JackG\Downloads\refaction-master-20170904T202546Z-001\refaction-master\ProductsService.Implementation\obj\Debug\ProductsService.Implementation.dll
+C:\Users\JackG\Downloads\refaction-master-20170904T202546Z-001\refaction-master\ProductsService.Implementation\obj\Debug\ProductsService.Implementation.pdb
+C:\Users\JackG\Documents\GitHub\refaction\ProductsService.Implementation\bin\Debug\ProductsService.Implementation.dll
+C:\Users\JackG\Documents\GitHub\refaction\ProductsService.Implementation\bin\Debug\ProductsService.Implementation.pdb
+C:\Users\JackG\Documents\GitHub\refaction\ProductsService.Implementation\bin\Debug\ProductsService.Contract.dll
+C:\Users\JackG\Documents\GitHub\refaction\ProductsService.Implementation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JackG\Documents\GitHub\refaction\ProductsService.Implementation\bin\Debug\ProductsService.Contract.pdb
+C:\Users\JackG\Documents\GitHub\refaction\ProductsService.Implementation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JackG\Documents\GitHub\refaction\ProductsService.Implementation\obj\Debug\ProductsService.Implementation.csprojResolveAssemblyReference.cache
+C:\Users\JackG\Documents\GitHub\refaction\ProductsService.Implementation\obj\Debug\ProductsService.Implementation.dll
+C:\Users\JackG\Documents\GitHub\refaction\ProductsService.Implementation\obj\Debug\ProductsService.Implementation.pdb

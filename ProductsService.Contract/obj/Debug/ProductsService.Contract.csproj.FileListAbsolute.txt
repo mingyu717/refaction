@@ -1,0 +1,13 @@
+C:\Users\JackG\Downloads\refaction-master-20170904T202546Z-001\refaction-master\ProductsService.Contract\bin\Debug\ProductsService.Contract.dll.config
+C:\Users\JackG\Downloads\refaction-master-20170904T202546Z-001\refaction-master\ProductsService.Contract\bin\Debug\ProductsService.Contract.dll
+C:\Users\JackG\Downloads\refaction-master-20170904T202546Z-001\refaction-master\ProductsService.Contract\bin\Debug\ProductsService.Contract.pdb
+C:\Users\JackG\Downloads\refaction-master-20170904T202546Z-001\refaction-master\ProductsService.Contract\obj\Debug\ProductsService.Contract.dll
+C:\Users\JackG\Downloads\refaction-master-20170904T202546Z-001\refaction-master\ProductsService.Contract\obj\Debug\ProductsService.Contract.pdb
+C:\Users\JackG\Documents\GitHub\refaction\ProductsService.Contract\bin\Debug\ProductsService.Contract.dll.config
+C:\Users\JackG\Documents\GitHub\refaction\ProductsService.Contract\bin\Debug\ProductsService.Contract.dll
+C:\Users\JackG\Documents\GitHub\refaction\ProductsService.Contract\bin\Debug\ProductsService.Contract.pdb
+C:\Users\JackG\Documents\GitHub\refaction\ProductsService.Contract\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JackG\Documents\GitHub\refaction\ProductsService.Contract\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JackG\Documents\GitHub\refaction\ProductsService.Contract\obj\Debug\ProductsService.Contract.csprojResolveAssemblyReference.cache
+C:\Users\JackG\Documents\GitHub\refaction\ProductsService.Contract\obj\Debug\ProductsService.Contract.dll
+C:\Users\JackG\Documents\GitHub\refaction\ProductsService.Contract\obj\Debug\ProductsService.Contract.pdb

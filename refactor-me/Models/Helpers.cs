@@ -7,9 +7,9 @@ namespace refactor_me.Models
     {
         private const string ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename={DataDirectory}\Database.mdf;Integrated Security=True";
 
-        public static SqlConnection NewConnection()
+        public static SqlConnection NewConnection(string dataDirectory)
         {
-            var connstr = ConnectionString.Replace("{DataDirectory}", HttpContext.Current.Server.MapPath("~/App_Data"));
+            var connstr = ConnectionString.Replace("{DataDirectory}", dataDirectory);
             return new SqlConnection(connstr);
         }
     }
